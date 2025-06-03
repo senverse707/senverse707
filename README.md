@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Stats
 
-![Senadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=senverse77&show_icons=true&theme=tokyonight)
+![Senadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=senverse707&show_icons=true&theme=tokyonight)
 
 ---
 
