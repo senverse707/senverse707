@@ -2,6 +2,7 @@
 
 🎓 First-year undergraduate student  
 🎨 Studying **Information Technology** 
+
 🌱 Currently learning **Web Development**, **IoT**, and **Programming Language**
 
 ---
